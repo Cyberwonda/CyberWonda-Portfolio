@@ -39,4 +39,4 @@ This lab really opened my eyes. Breaking in wasn't about being a genius hacker, 
 
 CONCLUSION:
 
-This was one of the most valuable labs I've done so far. It gave me real empathy for both sidesthe attacker's creativity and the defender's responsibility. I'm more motivated than ever to tighten defenses and think like the enemy.
+This was one of the most valuable labs I've done so far. It gave me real empathy for both sides, the attacker's creativity and the defender's responsibility. I'm more motivated than ever to tighten defenses and think like the enemy.
